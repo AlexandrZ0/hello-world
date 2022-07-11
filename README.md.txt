@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 Some changes for the content in the file Readme.md.txt
 Another some changes in that file !
+Еще одно изменение в этом файле 11.07.2022
